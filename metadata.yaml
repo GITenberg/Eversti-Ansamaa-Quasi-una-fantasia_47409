@@ -1,4 +1,8 @@
 _repo: Eversti-Ansamaa-Quasi-una-fantasia_47409
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ervast, Pekka
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4245
     wikipedia: http://fi.wikipedia.org/wiki/Pekka_Ervast
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47409#Eversti-Ansamaa-Quasi-una-fantasia
 gutenberg_issued: '2014-11-20'
 gutenberg_type: Text
 identifiers:
